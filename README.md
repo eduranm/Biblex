@@ -18,3 +18,9 @@ En este espacio serán depositados los códigos y otros materiales alusivos a lo
 **Esquema de la implementación**<br>
 
 <img width="1813" height="786" alt="esquema_biblex" src="https://github.com/user-attachments/assets/6f2e46e5-1753-4457-9d84-f1478725865d" />
+
+**Video de resultados esperados**<br>
+
+[Ver video]([https://drive.google.com/file/d/ID_DEL_VIDEO/view?usp=sharing](https://teams.live.com/l/message/19:605a86601566d537ee41fdb307ca066592a187c164fd7fd747504789fbaefe0a@oneToOne.skype/1756147614541?context=%7B%22contextType%22%3A%22chat%22%7D))
+
+
