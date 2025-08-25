@@ -21,6 +21,6 @@ En este espacio serán depositados los códigos y otros materiales alusivos a lo
 
 **Video de resultados esperados**<br>
 
-[▶️ Ver video](https://drive.google.com/file/d/ID_DEL_VIDEO/view?usp=sharing](https://teams.live.com/l/message/19:605a86601566d537ee41fdb307ca066592a187c164fd7fd747504789fbaefe0a@oneToOne.skype/1756147614541?context=%7B%22contextType%22%3A%22chat%22%7D)
+[▶️ Ver video](https://teams.live.com/l/message/19:605a86601566d537ee41fdb307ca066592a187c164fd7fd747504789fbaefe0a@oneToOne.skype/1756147614541?context=%7B%22contextType%22%3A%22chat%22%7D)
 
 
